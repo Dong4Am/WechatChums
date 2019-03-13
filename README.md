@@ -31,3 +31,5 @@ WechatChums 是一个隐藏通讯录好友的 Xposed 模块
 ## 特别感谢
 1. [WechatMagician](https://github.com/Gh0u1L5/WechatMagician)
 2. [WechatSpellbook](https://github.com/Gh0u1L5/WechatSpellbook)
+
+QQ Group: 14460986
