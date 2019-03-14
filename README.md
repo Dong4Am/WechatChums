@@ -27,6 +27,9 @@ WechatChums 是一个隐藏通讯录好友的 Xposed 模块
 ## TODO
 1. 初次进入时，因为动态适配(个人能力问题，后续再改)，需要同步解析微信apk，大约耗时六七秒左右。
 2. 交互上，应该还能简化些
+3. 屏蔽隐藏好友朋友圈和评论
+4. 隐藏分享和转发面板下搜索隐藏好友
+5. 阻止隐藏对象的语音和视频聊天
 
 ## 特别感谢
 1. [WechatMagician](https://github.com/Gh0u1L5/WechatMagician)
